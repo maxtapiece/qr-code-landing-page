@@ -18,8 +18,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add your Frontend Mentor solution URL here](#)
-- Live Site URL: [Add your live site URL here](#)
+- Solution URL: [My solution URL](https://github.com/maxtapiece/qr-code-landing-page)
+- Live Site URL: [live site URL here](https://maxtapiece.github.io/qr-code-landing-page/)
 
 ## My Process
 
