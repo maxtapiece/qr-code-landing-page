@@ -14,7 +14,7 @@ Users should be able to:
 
 ### Screenshot
 
-!["QR Code Screenshot"](./Screenshot(445).png)
+![QR Code Screenshot](./Screenshot%20(445).png)
 
 ### Links
 
